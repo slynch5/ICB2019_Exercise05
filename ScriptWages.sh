@@ -1,4 +1,4 @@
-# Exercise 5 Shell Script 
+x# Exercise 5 Shell Script 
 
 # Usage: bash ScriptWages.sh 
 
